@@ -1,10 +1,10 @@
 # BASIC-WEB-SCRAPER-FOR-HEADLINES
+
 **Description:** Fetch and display news headlines from a website using web scraping.
+
 **Challenges:**
  - Handle different website structures
-Avoid getting blocked (Use headers to mimic a
-browser request)
-**Tech Stack:** Java, Jsoup library
+ - Avoid getting blocked (Use headers to mimic a browser request)
 
 ---
 
