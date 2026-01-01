@@ -18,9 +18,8 @@
 ## Project Structure
 
 BasicWebScraper
-├── src
-│ └── NewsHeadlineScraper.java
-├── pom.xml
+- src/NewsHeadlineScraper.java
+- pom.xml
 
 ---
 
